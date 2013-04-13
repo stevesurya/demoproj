@@ -6,5 +6,5 @@
 	Purpose			:		This file would ionitialize the site
 	Version			:		1.0
 */
-
+//integrate contact file
 ?>
